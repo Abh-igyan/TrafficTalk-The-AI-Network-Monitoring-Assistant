@@ -13,7 +13,7 @@
 
 ## 📸 Demo
 
-[![Demo GIF](Untitled%20design.gif)]
+![Demo GIF](demo.gif)
 
 ---
 
